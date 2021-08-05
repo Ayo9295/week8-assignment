@@ -1,7 +1,10 @@
 # week8-assignment
 First collaboration
+
 Inventory Management API (IMA)
+
 🚩   Main Features
+
 This is an Inventory Mgt App was made to track the order state since the customer place it once it's shipped the seller mark it as shipped, and then the shipper mark it as delivered.
 
 Backend Modules Used
@@ -30,7 +33,7 @@ To run this project, install it locally using npm:
 
 $ cd inventory-mgt-app-grp10 $ npm install (install dependencies) $ npm start (for Node server side development)
 
-  ENV
+ENV
 PORT=
 DB_URI=
 JWT_SECRET=
